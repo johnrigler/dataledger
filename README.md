@@ -6,9 +6,10 @@ https://ledger.church
 
 This system requires:
 
-mysql
-digibyted
-ipfs
+---
+  - mysql
+  - digibyted
+  - ipfs
 
 It can also work with bitcoin.sv and dogecoind
 

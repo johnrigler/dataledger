@@ -35,6 +35,13 @@ have loaded:
 
 https://ledger.church/bitcoin.sv
 
+Finally, I am beginning to use EVM-based token systems such as Polygon-MATIC. Data can be injected directly into smart-contract in interesting ways. This example code is designed to initialize an Ethereum-based Address with a small bit of data on creation and allow for simple message updates:
+
+https://polygonscan.com/address/0x6f048a770dd3d4475330546110f4bbde5afceaae#code
+
+The account and all contracts and transactions can be downloaded via API calls. This solution is compatible with private blockchains such as https://kaleido.io and allows my Gen. 1 data efforts (like https://ledger.church) to be retooled as Gen. 2 solutions for projects such as https://www.linkedin.com/company/blockchain-of-evidence/
+
+
 
 
 
